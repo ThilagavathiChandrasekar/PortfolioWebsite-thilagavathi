@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ThilagavathiChandrasekar/PortfolioWebsite-thilagavathi/static/css/main.d7ac5a5a.css",
+    "main.js": "/ThilagavathiChandrasekar/PortfolioWebsite-thilagavathi/static/js/main.890e5e91.js",
+    "static/media/profile_img.jpg": "/ThilagavathiChandrasekar/PortfolioWebsite-thilagavathi/static/media/profile_img.74caa5f9093b62a67079.jpg",
+    "index.html": "/ThilagavathiChandrasekar/PortfolioWebsite-thilagavathi/index.html",
+    "main.d7ac5a5a.css.map": "/ThilagavathiChandrasekar/PortfolioWebsite-thilagavathi/static/css/main.d7ac5a5a.css.map",
+    "main.890e5e91.js.map": "/ThilagavathiChandrasekar/PortfolioWebsite-thilagavathi/static/js/main.890e5e91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ac5a5a.css",
+    "static/js/main.890e5e91.js"
+  ]
+}
